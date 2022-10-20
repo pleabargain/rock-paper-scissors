@@ -7,7 +7,7 @@ and got
 
 http://127.0.0.1:8000/
 
-it worked... moving on to create new poject on deta
+it worked... moving on to create new poject on deta (see the docs on deta!)
 
 And got a new URL
 * https://xlr9we.deta.dev/
