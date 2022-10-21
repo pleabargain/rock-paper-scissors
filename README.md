@@ -21,6 +21,11 @@ Let's test the game:
 * https://xlr9we.deta.dev/shoot?weapon=paper
 it worked as well!
 
+I updated the class weapon with spock and lizard.
+
+then I ran in CLI
+```deta deploy```
+
 Cloned an app and got it working on the web in less than 5 minutes. Very impressive! Now let's update the app by adding another 'weapon'.
 
 
