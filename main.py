@@ -19,14 +19,14 @@ async def read_root():
 async def shoot(weapon: Weapon):
 
     game_key = {
-        ('lizard', 'spock'): 'You lose! lizard poisons spock',
-        ('lizard', 'paper'): 'You win! lizard eats paper',
-        ('lizard', 'rock'): 'You lose! rock crushes lizard',
-        ('lizard', 'scissors'): 'You lose! scissors decapitates lizard',
-        ('lizard', 'lizard'): 'Draw! lizard and lizard',
+        ('lizard', 'spock'): 'Lizard poisons spock! You lose!',
+        ('lizard', 'paper'): 'You win! Lizard eats paper!',
+        ('lizard', 'rock'): 'You lose! Rock crushes lizard!',
+        ('lizard', 'scissors'): 'You lose! scissors decapitates lizard!',
+        ('lizard', 'lizard'): 'Draw! lizard and lizard are a tie!',
     
         ('spock', 'spock'): 'Draw! spock and spock',
-        ('spock', 'paper'): 'You lose! paper disproves Spock',
+        ('spock', 'paper'): 'You lose! Paper disproves Spock',
         ('spock', 'rock'): 'You win! Spock vaporizes rock',
         ('spock', 'scissors'): 'You win! Spock smashes scissors',
         ('spock', 'lizard'): 'You lose! Lizard poisons Spock',

@@ -1,6 +1,9 @@
 # CS = computer science
 And science means that one experiment, if followed exactly, should produce the same results. Right? Let's see!
 
+# fork this project
+https://github.com/pleabargain/rock-paper-scissors
+
 I ran ```uvicorn main:app --reload```
 
 and got 
